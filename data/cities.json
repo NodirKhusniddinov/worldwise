@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-11-10T05:35:22.987Z",
+      "notes": "",
+      "position": {
+        "lat": "55.696163893908825",
+        "lng": "37.66113281250001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Kazan",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-11-10T05:36:16.237Z",
+      "notes": "",
+      "position": {
+        "lat": "55.78429593735242",
+        "lng": "49.1473388671875"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Shymkent",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2023-11-10T05:36:39.035Z",
+      "notes": "",
+      "position": {
+        "lat": "42.26917949243506",
+        "lng": "69.60937500000001"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Incheon",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2023-11-10T05:38:25.668Z",
+      "notes": "",
+      "position": {
+        "lat": "37.44924171049878",
+        "lng": "126.65455341339113"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Tashkent",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2023-11-10T10:33:11.721Z",
+      "notes": "",
+      "position": {
+        "lat": "41.31133964539859",
+        "lng": "69.27969932556154"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Durres",
+      "country": "Albania",
+      "emoji": "🇦🇱",
+      "date": "2024-05-27T18:27:40.737Z",
+      "notes": "",
+      "position": {
+        "lat": "41.33169096107817",
+        "lng": "19.42795134670543"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Silivri",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-05-27T18:28:41.445Z",
+      "notes": "",
+      "position": {
+        "lat": "41.19404969586841",
+        "lng": "28.352978457789163"
+      },
+      "id": 12
+    }
+  ]
+}
